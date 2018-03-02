@@ -1,0 +1,22 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "media",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "media",
+    "values" : [
+      {
+        "value" : "pics",
+        "expressions" : [
+          "pics"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

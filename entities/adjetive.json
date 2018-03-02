@@ -1,0 +1,88 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "adjetive",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "adjetive",
+    "values" : [
+      {
+        "value" : "baby",
+        "expressions" : [
+          "baby"
+        ]
+      },
+      {
+        "value" : "brown",
+        "expressions" : [
+          "brown"
+        ]
+      },
+      {
+        "value" : "cute baby",
+        "expressions" : [
+          "cute baby"
+        ]
+      },
+      {
+        "value" : "cute little",
+        "expressions" : [
+          "cute little"
+        ]
+      },
+      {
+        "value" : "fat",
+        "expressions" : [
+          "fat"
+        ]
+      },
+      {
+        "value" : "fluffy",
+        "expressions" : [
+          "fluffy"
+        ]
+      },
+      {
+        "value" : "little",
+        "expressions" : [
+          "little"
+        ]
+      },
+      {
+        "value" : "nice",
+        "expressions" : [
+          "nice"
+        ]
+      },
+      {
+        "value" : "silly",
+        "expressions" : [
+          "silly"
+        ]
+      },
+      {
+        "value" : "sleepy",
+        "expressions" : [
+          "sleepy"
+        ]
+      },
+      {
+        "value" : "small",
+        "expressions" : [
+          "small"
+        ]
+      },
+      {
+        "value" : "small cute pink",
+        "expressions" : [
+          "small cute pink"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

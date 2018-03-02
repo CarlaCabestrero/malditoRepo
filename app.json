@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip cutepics.zip cutepics/app.json cutepics/entities/*.json cutepics/expressions.json",
+  "data" : {
+    "name" : "cutepics",
+    "description" : "This bot sends you cute pics",
+    "lang" : "en"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "category",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "category",
+    "values" : [
+      {
+        "value" : "cat",
+        "expressions" : [
+          "cat"
+        ]
+      },
+      {
+        "value" : "cats",
+        "expressions" : [
+          "cats"
+        ]
+      },
+      {
+        "value" : "dogs",
+        "expressions" : [
+          "dogs"
+        ]
+      },
+      {
+        "value" : "dragons",
+        "expressions" : [
+          "dragons"
+        ]
+      },
+      {
+        "value" : "kitties",
+        "expressions" : [
+          "kitties"
+        ]
+      },
+      {
+        "value" : "lions",
+        "expressions" : [
+          "lions"
+        ]
+      },
+      {
+        "value" : "pigs",
+        "expressions" : [
+          "pigs"
+        ]
+      },
+      {
+        "value" : "puppies",
+        "expressions" : [
+          "puppies"
+        ]
+      },
+      {
+        "value" : "racoons",
+        "expressions" : [
+          "racoons"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}
